@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import ImageTabs from "@/components/ui/image-tabs";
+import ImageTabs from "@/components/image-tabs"
 import { ArrowRight, Briefcase, CheckCircle2, TrendingUp } from "lucide-react";
 import Link from "next/link";
 
